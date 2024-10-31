@@ -32,7 +32,7 @@ public class MainActivity extends AppCompatActivity {
 
         // Hiển thị tên và mã sinh viên
         TextView tvHeader = findViewById(R.id.tvHeader);
-        tvHeader.setText("Tên: Nguyễn Thị Bích Ngọc - MSV: 22115053122124");
+        tvHeader.setText("Tên: Trần Công Hiếu - MSV: 22115053122113");
 
         // Khởi tạo ListView để hiển thị các số điện thoại
         lvContacts = findViewById(R.id.lvContacts);
